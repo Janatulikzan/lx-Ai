@@ -10,7 +10,10 @@
 
 ## 📸 Screenshot
 
- [interface](https://github.com/Janatulikzan/lx-Ai/blob/main/interface.png)
+## 📸 Screenshot
+
+![Tampilan Interface](https://github.com/Janatulikzan/lx-Ai/blob/main/interface.png)
+
 
 ## 🛠️ Teknologi yang Digunakan
 
