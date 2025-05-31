@@ -30,15 +30,17 @@
    
 3. **Install dependencies**
 
+   ```bash
    npm install
 
 4. **Tambahkan .env**
-   
+
+   ```bash
    VITE_GROQ=your_groq_api_key_here
 
 5. **Jalankan development server**
-
-   Jalankan development server
+   ```bash
+   npm run dev
 
 **🧠 Tentang Groq API**
 
