@@ -10,8 +10,6 @@
 
 ## 📸 Screenshot
 
-## 📸 Screenshot
-
 ![Tampilan Interface](https://github.com/Janatulikzan/lx-Ai/blob/main/interface.png)
 
 
